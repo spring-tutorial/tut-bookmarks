@@ -41,6 +41,12 @@
             <artifactId>json-path</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.hateoas</groupId>
+            <artifactId>spring-hateoas</artifactId>
+            <version>0.19.0.RELEASE</version>
+        </dependency>
     </dependencies>
 
     <properties>
